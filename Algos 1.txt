@@ -1,0 +1,36 @@
+
+
+numpy
+pandas
+scikit.learn (ML standard statistique probabilistes: SNV, trees, Bayes, SGD XGBoost, Arima, ArimaX)
+Tensorflow
+Keras (API TF)
+
+Seaborn (+)
+Matplotlib
+StatsModels
+Plotty/Dash (un fel de matplotlib)
+
+
+Pytorch (Flask)
+Mxnet
+Openvino (inference)
+Coffe (inference) (/OpenCV)
+
+Anaconda
+
+!pip install _
+
+conda create --name ds python==3.9
+conda activate ds
+conda list
+conda env list
+
+for installing modules on anaconda
+https://anaconda.org/anaconda/scikit-learn
+conda install -c anaconda scikit-learn
+
+conda install -c conda-forge jupyterlab
+conda install -c conda-forge jupyter notebook
+.ipynb
+
